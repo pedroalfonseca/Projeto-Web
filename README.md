@@ -1,4 +1,4 @@
 # Projeto Web
-Projeto Web referente à disciplina IF668 - Introdução à Computação (IC), do semestre 2021.1
+Portfólio pessoal que contém informações acerca da minha formação e dos meus interesses profissionais. O website está hospedado [aqui](https://www.cin.ufpe.br/~paalf/).
 
-Aluno: Pedro Augusto de Almada Lobo Fonseca
+Personal porfolio that contains information about my education and my professional interests. The website is hosted [here](https://www.cin.ufpe.br/~paalf/).
