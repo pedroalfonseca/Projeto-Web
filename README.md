@@ -1,4 +1,4 @@
-# Projeto-Web-IC
-Projeto Web referente à disciplina de Introdução à Computação do semestre 2021.1
+# projeto_web
+Projeto Web referente à disciplina IF668 - Introdução à Computação (IC), do semestre 2021.1
 
 Aluno: Pedro Augusto de Almada Lobo Fonseca
